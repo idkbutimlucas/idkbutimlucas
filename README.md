@@ -9,15 +9,11 @@
 
 - 🌱 I’m currently learning **React-native, Angular**
 
-- 📫 How to reach me **lucashochart@orange.fr**
-
 - 📄 Know about my experiences and my projects 📚 [https://cv.lucas-hochart.fr](https://cv.lucas-hochart.fr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@idkbutimlucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@idkbutimlucas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucas-hochart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-hochart" height="30" width="40" /></a>
-<a href="https://discord.gg/9960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9960" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
