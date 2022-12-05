@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Lucas</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🌱 I’m currently learning **React-native**
+- 🌱 I’m currently learning **GO**
 
 - 📄 Know about my experiences and my projects 📚 [https://cv.lucas-hochart.fr](https://cv.lucas-hochart.fr)
 
