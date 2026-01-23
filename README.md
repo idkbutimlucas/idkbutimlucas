@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Lucas</h1>
 <h3 align="center">A passionate fullstack developer from France 🇫🇷</h3>
 
-- 📄 Know about my experiences and my projects    📚    [lucashochart.fr](https://lucashochart.fr/)
+- 📄 Know about my experiences and my projects    📚      [lucashochart.fr](https://lucashochart.fr/)
 
 <h3 align="left"> Connect with me : </h3>
 <p align="left">
