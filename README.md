@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 À propos de moi
+## 🧠 À propos de moi    
 
 Passionné par l’informatique depuis plusieurs années, je travaille aujourd’hui à l’intersection du **développement web**, de **l’administration système** et de la **sécurisation des SI**.
 
