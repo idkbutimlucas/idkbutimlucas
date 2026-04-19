@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Lucas Hochart    
+# 👋 Salut, moi c’est Lucas Hochart
 
 💻 Développeur web & systèmes d’information  
 🔐 Intéressé par la sécurité, l’architecture et les projets utiles  
@@ -99,3 +99,4 @@ _Avril 2022 → Mars 2025_
 ---
 
 > *“Build clean. Secure early. Ship useful things.”*
+
