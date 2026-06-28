@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lucashochart.fr">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://datyze.fr">📊 Datyze</a> &nbsp;·&nbsp;
-  <a href="mailto:idkbutimlucas@gmail.com">📫 Contact</a>
+  <a href="https://lucashochart.fr">🌐 lucashochart.fr</a>
 </p>
 
 ---
@@ -55,7 +53,6 @@ Je travaille à l'intersection du **développement web**, de l'**infrastructure*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lucashochart.fr-0A0A0A?style=flat-square&logo=safari&logoColor=white)](https://lucashochart.fr)
 [![Datyze](https://img.shields.io/badge/Datyze-datyze.fr-6366F1?style=flat-square)](https://datyze.fr)
-[![Email](https://img.shields.io/badge/Email-idkbutimlucas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:idkbutimlucas@gmail.com)
 
 ---
 
