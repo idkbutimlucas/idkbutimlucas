@@ -1,7 +1,7 @@
 <h1 align="center">👋 Lucas Hochart</h1>
 
 <p align="center">
-  Développeur full-stack — je conçois des produits web robustes, du backend à l'infra.
+  Développeur full-stack & indie hacker — je conçois et je <i>ship</i> des produits web, du backend à l'infra.
 </p>
 
 <p align="center">
@@ -12,12 +12,25 @@
 
 ---
 
-### 🚀 Ce que je construis en ce moment
+### 🚀 En vedette — [Datyze](https://datyze.fr)
 
-**[Datyze](https://datyze.fr) — l'analytics web _privacy-first_.**
-Une alternative simple et éthique à Google Analytics : **sans cookies**, **conforme RGPD**, sans bandeau de consentement. Juste les chiffres qui comptent, et le respect des visiteurs par défaut.
+**L'analytics web _privacy-first_.** Une alternative simple et éthique à Google Analytics : **sans cookies**, **conforme RGPD**, sans bandeau de consentement. Juste les chiffres qui comptent, et le respect des visiteurs par défaut.
 
 > `Next.js 15` · `TypeScript` · `DrizzleORM / PostgreSQL` · `Tailwind` · monorepo `pnpm`/`Turbo` auto-hébergé sur VPS (Docker + Coolify).
+
+---
+
+### 🧱 Mes produits
+
+| Produit | Ce que c'est |
+|---|---|
+| **[Datyze](https://datyze.fr)** | Analytics web privacy-first — cookieless, RGPD, alternative éthique à Google Analytics |
+| **[Tremplin](https://tremplin.eu)** | Recherche d'emploi augmentée par l'IA : scanne 15+ jobboards, score les offres et génère CV & lettres de motivation |
+| **[Launchy](https://launchy.fr)** | Marketing en pilote auto pour devs — transforme ton activité GitHub en posts LinkedIn / X. *« git push to published »* |
+| **[Codeback](https://codeback.fr)** | Monétise les temps de chargement de tes assistants IA (VS Code, Cursor, Copilot…) — les devs touchent 65 % des revenus |
+| **[Picture-in-Picture Plus](https://chromewebstore.google.com/detail/picture-in-picture-plus-r/ebgagajnlgakmnkfafabebaadbalhdof)** | Extension Chrome : picture-in-picture + rotation automatique des vidéos verticales (Shorts / TikTok) |
+
+<sub>🧪 Aussi : <a href="https://dear-valentine.vercel.app">Dear Valentine</a> (+11 000 visiteurs en 4 jours) · <a href="https://quiestleplus.lucashochart.fr">Qui est le plus…?</a> · RefreshMyMac (app macOS, Swift)</sub>
 
 ---
 
@@ -34,18 +47,7 @@ Une alternative simple et éthique à Google Analytics : **sans cookies**, **con
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Je travaille à l'intersection du **développement web**, de l'**infrastructure** et de la **sécurité applicative** — des applications bien structurées, maintenables et pensées pour durer.
-
----
-
-### 💡 Sélection de projets
-
-| Projet | Description | Stack |
-|---|---|---|
-| **[Datyze](https://datyze.fr)** | Analytics web privacy-first, cookieless & RGPD | Next.js · Drizzle · VPS |
-| **[Dear Valentine](https://dear-valentine.vercel.app)** | +11 000 visiteurs en 4 jours | Next.js · Supabase · Vercel |
-| **[Qui est le plus…?](https://quiestleplus.lucashochart.fr)** | Appli fun & interactive | Next.js · Tailwind · VPS |
-| **RefreshMyMac** | App macOS de nettoyage & d'optimisation système | Swift · SwiftUI |
+Je travaille à l'intersection du **développement web**, de l'**infrastructure** et de la **sécurité applicative** — et j'aime intégrer l'**IA** dans des produits qui rendent vraiment service.
 
 ---
 
