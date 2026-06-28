@@ -27,8 +27,9 @@
 | **[Launchy](https://launchy.fr)** | Marketing en pilote auto pour devs — transforme ton activité GitHub en posts LinkedIn / X. *« git push to published »* |
 | **[Codeback](https://codeback.fr)** | Monétise les temps de chargement de tes assistants IA (VS Code, Cursor, Copilot…) — les devs touchent 65 % des revenus |
 | **[Picture-in-Picture Plus](https://chromewebstore.google.com/detail/picture-in-picture-plus-r/ebgagajnlgakmnkfafabebaadbalhdof)** | Extension Chrome : picture-in-picture + rotation automatique des vidéos verticales (Shorts / TikTok) |
+| **[RefreshMyMac](https://lucashochart.fr/projet/refreshmymac/)** | App macOS de nettoyage & d'optimisation système, en Swift / SwiftUI |
 
-<sub>🧪 Aussi : <a href="https://dear-valentine.vercel.app">Dear Valentine</a> (+11 000 visiteurs en 4 jours) · <a href="https://quiestleplus.lucashochart.fr">Qui est le plus…?</a> · RefreshMyMac (app macOS, Swift)</sub>
+<sub>🧪 Aussi : <a href="https://dear-valentine.vercel.app">Dear Valentine</a> (+11 000 visiteurs en 4 jours) · <a href="https://quiestleplus.lucashochart.fr">Qui est le plus…?</a></sub>
 
 ---
 
