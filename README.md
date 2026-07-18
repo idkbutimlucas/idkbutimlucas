@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lucashochart.fr">🌐 lucashochart.fr</a> 
+  <a href="https://lucashochart.fr">🌐 lucashochart.fr</a>  
 </p>
 
 ---
