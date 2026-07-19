@@ -1,7 +1,7 @@
 <h1 align="center">👋 Lucas Hochart </h1>  
 
 <p align="center">
-  Développeur full-stack & indie hacker — je conçois et je <i>ship</i> des produits web, du backend à l'infra.  
+  Développeur full-stack & indie hacker — je conçois et je <i>ship</i> des produits web, du backend à l'infra.   
 </p>
 
 <p align="center">
